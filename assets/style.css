@@ -32,7 +32,7 @@ h2 {
     text-align: center;
 }
 
-h3 {
+p {
     text-align: center;
 }
 
@@ -60,10 +60,22 @@ form {
     margin: 0 auto;
 }
 
+footer {
+    background-color: cadetblue;
+    width: 100%;
+    border-bottom: 5px solid darkgray;
+    width: 100%;
+    height: 40px;
+}
+
+footer > p {
+    padding-top: 10px;
+    color: white;
+}
+
 #section-1 {
     background-color: lightgrey;
     border-bottom: 5px solid darkgrey;
-    width: 100%;
 }
 
 #section-2 {
