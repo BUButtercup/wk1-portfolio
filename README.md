@@ -3,6 +3,8 @@ Week 1 mini-project
 
 recreating a portfolio page from scratch using the provided acceptance criteria.
 
+link to the page: https://bubuttercup.github.io/wk1-portfolio/
+
 Acceptance Criteria:
 
 It's done when the page uses semantic HTML elements.
